@@ -1,0 +1,29 @@
+/* Stylesheet */
+body {
+    text-align: center;
+    background-color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color:darkblue;
+    background-color:lightblue;
+    font-size: 24px;
+    text-align: center;
+}
+nav {
+    color:darkblue;
+    background-color:lightblue;
+}
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 100px;
+    padding-right:100px;
+}
+
+
+
+img {
+    border: 5px solid black;
+}
